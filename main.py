@@ -17,7 +17,7 @@ subprocess.run("pip install yt-dlp".split())
 
 data_json = get_tplay_data()
 
-app = Client("RC_tplay_dl_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
+app = Client("RC_tplay_dl_bot", api_id=15912260, api_hash=5c7ba9544c4d7cf3fecefebf1fd6f8bc, bot_token=5637665860:AAFxTpPCJ-7uAcnKirFpF2cHZYgzmHxRdM4)
 
 
 
